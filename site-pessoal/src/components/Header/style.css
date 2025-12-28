@@ -5,6 +5,7 @@ header {
   z-index: 1000;
   height: 10vh;
   background-color: #333333;
+  left: 0;
 }
 
 nav {

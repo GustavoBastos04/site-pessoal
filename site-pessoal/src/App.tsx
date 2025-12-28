@@ -19,9 +19,8 @@ function App() {
   }, [])   
   return (
     <>
-    <div>
       <Header />
-    </div>
+
 
     <section id="inicio">
       <Home/>
