@@ -29,8 +29,6 @@
 }
 
 .projeto-container {
-    border: 0.5rem solid #3C3C3C;
-    border-radius: 1.5rem;
     height: 30vh;
     width: 40vw;
     padding: 1rem;
@@ -53,4 +51,8 @@
 .projeto-container a {
     margin-top: auto;
     align-self: flex-end;
+    font-size: 2rem;
+    background-color: #333333;
+    border: 2rem solid #333333;
+    border-radius: 1.5rem;
 }
