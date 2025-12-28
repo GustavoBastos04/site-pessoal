@@ -1,0 +1,45 @@
+.tecnologias-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5vw
+}
+
+.tecnologias-container h1 {
+    margin: 0;
+    font-size: 3.5rem;
+    color:#569CD6;
+}
+.tecnologias-container h1:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #569CD6;
+  margin-top: 0.75rem;
+}
+
+.topicos-container {
+    display: flex;
+    gap: 5vw;
+}
+
+.topico-container {
+    border: 0.5rem solid #3C3C3C;
+    border-radius: 1.5rem;
+    height: 20vh;
+    width: 23vw;
+    padding: 1rem;
+}
+
+.topico-container h2 {
+    margin: 0;
+    
+}
+.topico-container li {
+    color: #569CD6;
+    font-weight: bold;
+}
