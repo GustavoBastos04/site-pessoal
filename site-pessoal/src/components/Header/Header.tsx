@@ -1,18 +1,12 @@
 import './style.css';
-import codeLogo from "../../assets/codeLogo.svg";
+import DesktopNavbar from './DesktopNavbar/DesktopNavbar';
+import MobileNavbar from './MobileNavbar/MobileNavbar';
+import UseMediaQueryHook from './UseMediaQueryHook/UseMediaQueryHook';
 function Header() {
+    const isMobile = UseMediaQueryHook("(max-width: 750px)")
     return (
         <>
-        <header>
-            <nav>
-                <img src={codeLogo} alt="code-logo" />
-                <a href="#inicio">Início</a>
-                <a href="#qualificacoes">Qualificações</a>
-                <a href="#tecnologias">Tecnologias</a>
-                <a href="#projetos">Projetos</a>
-                <a href="#contato">Contato</a>
-            </nav>
-        </header>            
+           {isMobile ? <MobileNavbar/> : <DesktopNavbar/>}         
         </>
     )
 
