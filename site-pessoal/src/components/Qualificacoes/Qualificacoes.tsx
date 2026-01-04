@@ -9,7 +9,7 @@ function Qualificacoes() {
                 <div className="qualificacao">
                     <h1>Bacharelado em Sistemas de Informação - USP</h1>
                     <p className="qualificacao-periodo">Março de 2023 - Atualmente</p>
-                    <p className="qualificacao-descricao">O bacharelado em Sistemas de Informação continuamente me permite adquirir conhecimentos fundamentais e sólidos de computação, permitindo que eu possa entender processos em sistemas operacionais, comunicação entre sistemas, bancos de dados e padrões de projeto; assim desenvolver aplicações de ponta-a-ponta</p>
+                    <p className="qualificacao-descricao">O bacharelado em Sistemas de Informação continuamente me permite adquirir conhecimentos fundamentais e sólidos de computação, permitindo que eu possa entender processos em sistemas operacionais, comunicação entre sistemas, bancos de dados e padrões de projeto; assim desenvolver aplicações de ponta-a-ponta.</p>
                 </div>
                 <div className="qualificacao">
                     <h1>Técnico em Desenvolvimento de Sistemas - ETEC</h1>

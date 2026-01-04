@@ -7,7 +7,7 @@ function Projetos() {
                 <div className="conjunto-projetos-container">
                     <div className="projeto-container">
                         <h2>Sistema de Padaria Pão-Tech</h2>
-                        <p>A ideia desse projeto é um sistema escalável que utilize tecnologias modernas que pode ser aplicado em padarias de diferentes tamanhos, de foram a englobar grande parte do negócio e como alternativa à substituição de sistemas ultrapassados utilizados em pequenos negócios ou padarias sem nenhum uso de um sistema</p>
+                        <p>A ideia desse projeto é um sistema escalável que utilize tecnologias modernas que pode ser aplicado em padarias de diferentes tamanhos, de foram a englobar grande parte do negócio e como alternativa à substituição de sistemas ultrapassados utilizados em pequenos negócios ou padarias sem nenhum uso de um sistema.</p>
                         <a href="https://github.com/GustavoBastos04/Sistema-de-padaria">Ver projeto ➜</a>
                     </div>
                     <div className="projeto-container">
