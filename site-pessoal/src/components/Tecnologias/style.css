@@ -35,9 +35,9 @@
 
 .topico-container h2 {
     margin: 0;
-    
+    color: #569CD6;
 }
 .topico-container li {
-    color: #569CD6;
+    color: white;
     font-weight: bold;
 }

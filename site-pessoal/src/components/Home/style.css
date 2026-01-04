@@ -48,4 +48,6 @@
 
 .about-container p {
     text-align: justify;
+    color: white;
+    font-size: 18px;
 }

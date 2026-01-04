@@ -39,20 +39,19 @@
 
 .projeto-container p {
     text-align: justify;
-    font-size: 0.90rem;
-
+    font-size: 18px;
+    color: white;
 }
 
 .projeto-container h2 {
     margin: 0;
     font-size: 1.5rem;    
+    color: #569CD6;
 }
 
 .projeto-container a {
     margin-top: auto;
     align-self: flex-end;
-    font-size: 2rem;
-    background-color: #333333;
-    border: 2rem solid #333333;
-    border-radius: 1.5rem;
+    font-size: 1.2rem;
+
 }

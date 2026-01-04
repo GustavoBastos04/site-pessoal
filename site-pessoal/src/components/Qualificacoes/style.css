@@ -46,3 +46,8 @@
 .qualificacao-descricao {
     text-align: justify;
 }
+
+p {
+    color: white;
+    font-size: 18px;
+}
