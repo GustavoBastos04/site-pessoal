@@ -21,6 +21,7 @@
 
 .projeto-container h2 {
     color: #569CD6;
+    text-align: center;
 }
 
 @media screen and (max-width: 750px) {
