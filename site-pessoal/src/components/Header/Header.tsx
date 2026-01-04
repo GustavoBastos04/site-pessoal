@@ -1,4 +1,4 @@
-import './style.css';
+
 import DesktopNavbar from './DesktopNavbar/DesktopNavbar';
 import MobileNavbar from './MobileNavbar/MobileNavbar';
 import UseMediaQueryHook from './UseMediaQueryHook/UseMediaQueryHook';

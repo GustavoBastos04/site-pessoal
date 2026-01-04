@@ -9,7 +9,7 @@ function MobileNavbar() {
             <nav>
                 <img src={codeLogo} alt="code-logo" />
                 <p>Desenvolvedor Full-Stack</p>
-                <img className='menu-items-trigger' src={menu_icon} alt="menu_icon"/>
+                <img src={menu_icon} alt="menu_icon"/>
             </nav>
         </header>    
         </>

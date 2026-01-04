@@ -19,29 +19,30 @@ function App() {
   }, [])   
   return (
     <>
+    <div className='main-container'>
       <Header />
 
 
-    <section id="inicio">
-      <Home/>
-    </section>
+      <section id="inicio">
+        <Home/>
+      </section>
 
-    <section id="qualificacoes">
-      <Qualificacoes/>
-    </section>
+      <section id="qualificacoes">
+        <Qualificacoes/>
+      </section>
 
-    <section id="tecnologias">
-      <Tecnologias/>      
-    </section>
+      <section id="tecnologias">
+        <Tecnologias/>      
+      </section>
 
-    <section id="projetos">
-      <Projetos/>      
-    </section>
+      <section id="projetos">
+        <Projetos/>      
+      </section>
 
-    <section id="contato">
-      <Contato/>
-    </section>
-    
+      <section id="contato">
+        <Contato/>
+      </section>
+    </div>
     </>
   )
 }

@@ -1,8 +1,31 @@
+header {
+ position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  height: 80px;
+  background-color: #333333;
+  left: 0;
+}
+
+nav {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+a {
+  color: #569CD6;
+}
+
 img {
     height: 50px;
     width: 50px;
 }
-p {
+header nav p {
     font-size: 20px;
-    color: #569CD6;
+    color: #569CD6 !important;
 }

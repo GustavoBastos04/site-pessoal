@@ -1,5 +1,17 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  align-items: center;
+  gap: 200px;
+}
+
+@media screen and (min-width: 750px) {
 section {
   scroll-margin-top: 10vh;
   height: 90vh;
   width: 100%;
 }
+  
+}
+
